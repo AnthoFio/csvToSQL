@@ -1,0 +1,7 @@
+# Editor
+.vscode/
+
+# Execution results
+__pycache__/
+*.egg-info
+*.pyc
